@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67c756d105fa5834f9b404e16d5d9181, type: 3}
+  m_Name: HierarchyStyleDatabase_SampleScene
+  m_EditorClassIdentifier: 
+  dataList:
+  - name: Main Camera
+    color: {r: 0, g: 0.47291437, b: 0.6039216, a: 0.4}
+    iconName: Camera Icon
+  - name: Light
+    color: {r: 0.6320754, g: 0.62242526, b: 0.32498217, a: 0.4}
+    iconName: Light Icon
+  - name: Environment
+    color: {r: 0.31177342, g: 0.5, b: 0.2712264, a: 0.4}
+    iconName: GameObject Icon
+  - name: BackgroundMusic
+    color: {r: 0, g: 0, b: 0, a: 0}
+    iconName: AudioSource Icon
+  - name: Player
+    color: {r: 1, g: 0, b: 0, a: 0.4}
+    iconName: GameObject Icon
